@@ -1,0 +1,9 @@
+# to run:
+java -cp .\chat-server-1.0-SNAPSHOT.jar com.npole.app.Server
+
+/*
+*  To run as a console application just open a console window and: 
+* > java Server
+* > java Server portNumber
+* If the port number is not specified 8000 is used
+*/ 
